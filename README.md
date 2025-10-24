@@ -11,3 +11,6 @@ Performed open-loop analysis (poles, gain/phase margins).
 Designed PD, state-feedback, and LQR controllers.
 Compared transient responses and robustness under ±20% parameter variations.
 Generated Root Locus, Bode, and Nyquist plots for system analysis.
+### 🔗 MATLAB Code
+[👉 Click here to view flight_pitch_roll.m]([flight_pitch_roll.m](https://github.com/gopalmandal2002/flight-control-system/blob/main/flight_pitch_roll.m))
+
