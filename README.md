@@ -14,10 +14,10 @@ Generated Root Locus, Bode, and Nyquist plots for system analysis.
 ### 🔗 MATLAB Code
 [👉 Click here to view flight_pitch_roll.m](flight_pitch_roll.m)
 ## 📊 Simulation Results
-![Root Locus - Pitch](Screenshot 2025-10-24 122233.png)
-![Bode & Margin-pitch](Screenshot 2025-10-24 122321.png)
+![Root Locus - Pitch](https://github.com/gopalmandal2002/flight-control-system/blob/main/Screenshot%202025-10-24%20122233.png)
+![Bode & Margin-pitch](https://github.com/gopalmandal2002/flight-control-system/blob/main/Screenshot%202025-10-24%20122321.png)
 
-![Root-Locus-Roll](Screenshot 2025-10-24 122344.png)
+![Root-Locus-Roll](https://github.com/gopalmandal2002/flight-control-system/blob/main/Screenshot%202025-10-24%20122344.png)
 
 ![Bode & Margin - Roll](https://github.com/gopalmandal2002/flight-control-system/blob/main/Screenshot%202025-10-24%20122431.png)
 ![Root Locus - Pitch](images/root_locus_pitch.png)
