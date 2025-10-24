@@ -13,4 +13,15 @@ Compared transient responses and robustness under ±20% parameter variations.
 Generated Root Locus, Bode, and Nyquist plots for system analysis.
 ### 🔗 MATLAB Code
 [👉 Click here to view flight_pitch_roll.m](flight_pitch_roll.m)
+## 📊 Simulation Results
+![Root Locus - Pitch](Screenshot 2025-10-24 122233.png)
+![Bode & Margin-pitch](Screenshot 2025-10-24 122321.png)
+![Root-Locus-Roll](Screenshot 2025-10-24 122344.png)
+![Bode & Margin - Roll](Screenshot 2025-10-24 122431.png)
+![Root Locus - Pitch](images/root_locus_pitch.png)
+![Root Locus - Pitch](images/root_locus_pitch.png)
+![Root Locus - Pitch](images/root_locus_pitch.png)
+![Root Locus - Pitch](images/root_locus_pitch.png)
+![Root Locus - Pitch](images/root_locus_pitch.png)
+
 
