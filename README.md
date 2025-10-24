@@ -26,11 +26,22 @@ Generated Root Locus, Bode, and Nyquist plots for system analysis.
 ![Bode & Margin - Roll](https://github.com/gopalmandal2002/flight-control-system/blob/main/Screenshot%202025-10-24%20122431.png)
 
 ![Root Locus - Pitch](https://github.com/gopalmandal2002/flight-control-system/blob/main/Screenshot%202025-10-24%20122454.png)
+
 ![Root Locus - Pitch](https://github.com/gopalmandal2002/flight-control-system/blob/main/Screenshot%202025-10-24%20122524.png)
+
 ![Root Locus - Pitch](http://github.com/gopalmandal2002/flight-control-system/blob/main/Screenshot%202025-10-24%20122545.png)
+
 ![Root Locus - Pitch](https://github.com/gopalmandal2002/flight-control-system/blob/main/Screenshot%202025-10-24%20122620.png)
+
+
 ![Root Locus - Pitch](https://github.com/gopalmandal2002/flight-control-system/blob/main/Screenshot%202025-10-24%20122726.png)
+
 ![Root Locus - Pitch](https://github.com/gopalmandal2002/flight-control-system/blob/main/Screenshot%202025-10-24%20122752.png)
+## 🏁 Conclusion
+This project successfully demonstrated the design and analysis of aircraft pitch and roll control using MATLAB.  
+By applying Root Locus, Bode Plot, and State-Space (LQR) techniques, the system achieved stable closed-loop behavior with improved performance and robustness.  
+The comparison of PD, State-Feedback, and LQR controllers highlighted how modern control methods enhance dynamic stability and response accuracy in flight systems.
+
 
 
 
